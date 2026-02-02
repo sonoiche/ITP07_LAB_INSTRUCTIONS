@@ -1,4 +1,4 @@
-# PHP Basics — Laboratory Activity
+# PHP Basics — Laboratory Activity 2
 
 Objective
 -	Guide students to create a simple PHP file that demonstrates variables, operators, functions, arrays, and associative arrays.
